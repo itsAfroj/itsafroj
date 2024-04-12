@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Afroj Ahmad</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsafroj" alt="itsafroj" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/itsafroj" target="blank"><img src="https://img.shields.io/twitter/follow/itsafroj?logo=twitter&style=for-the-badge" alt="itsafroj" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **nodejs and blockchain**
 
 - 💬 Ask me about **React**
 
